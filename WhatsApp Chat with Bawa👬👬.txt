@@ -1,0 +1,1816 @@
+14/01/23, 13:42 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+15/01/23, 22:43 - Bawa👬👬: <Media omitted>
+15/01/23, 22:43 - Bawa👬👬: <Media omitted>
+15/01/23, 22:43 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+15/01/23, 22:44 - Bawa👬👬: <Media omitted>
+18/01/23, 19:36 - Bawa👬👬: Mnu lga si
+18/01/23, 19:36 - Bawa👬👬: Kuch kru e
+18/01/23, 19:36 - Bawa👬👬: Lnn jya
+18/01/23, 19:39 - garggautam2345: <Media omitted>
+18/01/23, 19:43 - garggautam2345: Oye
+18/01/23, 19:43 - Bawa👬👬: Ki gl aa
+18/01/23, 19:43 - garggautam2345: Ik bnda hor Jana chunda goa
+18/01/23, 19:43 - Bawa👬👬: Pdya ni jnda
+18/01/23, 19:43 - garggautam2345: Raman da hai
+18/01/23, 19:43 - Bawa👬👬: Name??
+18/01/23, 19:43 - garggautam2345: Babe da chota bhra haj
+18/01/23, 19:43 - garggautam2345: Nitesh
+18/01/23, 19:44 - Bawa👬👬: Krlo
+18/01/23, 19:44 - garggautam2345: Hrktan ch
+18/01/23, 19:44 - Bawa👬👬: Dekhlo
+18/01/23, 19:44 - Bawa👬👬: Tanu pta keho jya bnda
+18/01/23, 19:44 - Bawa👬👬: Acha
+18/01/23, 19:44 - garggautam2345: Hmm mere nal hunda
+18/01/23, 19:44 - Bawa👬👬: 8:30 roti khan chla ge
+18/01/23, 19:44 - Bawa👬👬: Fer krde aa gl
+18/01/23, 19:44 - Bawa👬👬: Hin pdla
+18/01/23, 19:44 - garggautam2345: Gand jyada paiju
+18/01/23, 19:44 - garggautam2345: Na
+18/01/23, 19:44 - garggautam2345: CHL ok 8:30
+18/01/23, 19:44 - Bawa👬👬: Tu oo dabba khali
+18/01/23, 19:45 - garggautam2345: Karde Han
+18/01/23, 19:45 - Bawa👬👬: Lode
+18/01/23, 19:45 - Bawa👬👬: Tera desert hoju
+18/01/23, 20:08 - garggautam2345: Ki Hoya bhonk
+18/01/23, 20:08 - Bawa👬👬: Kl gym da ki krna
+18/01/23, 20:08 - Bawa👬👬: 5 vje meet aa
+18/01/23, 20:09 - Bawa👬👬: Magboard
+18/01/23, 20:09 - garggautam2345: Badi Kali hai tenu meet do
+18/01/23, 20:09 - garggautam2345: BC gym chdn nu tyar ho gya
+18/01/23, 20:09 - garggautam2345: Lucha
+18/01/23, 22:09 - Bawa👬👬: Lode
+18/01/23, 22:10 - Bawa👬👬: Id bhej
+18/01/23, 22:10 - Bawa👬👬: Wifi di
+18/01/23, 22:16 - garggautam2345: <Media omitted>
+20/01/23, 10:12 - garggautam2345: You deleted this message
+20/01/23, 10:12 - garggautam2345: Aaja
+20/01/23, 14:25 - Bawa👬👬: Hnji
+20/01/23, 14:25 - Bawa👬👬: Ki dikkt aa
+20/01/23, 14:25 - garggautam2345: Lab lgugi
+20/01/23, 14:25 - garggautam2345: Ke na
+20/01/23, 14:26 - garggautam2345: Puch kisse ton
+20/01/23, 14:26 - Bawa👬👬: Pta ni
+20/01/23, 14:26 - Bawa👬👬: Puchla
+20/01/23, 14:26 - Bawa👬👬: Madam nu
+20/01/23, 16:49 - garggautam2345: #include<bits/stdc++.h>
+using namespace std;
+
+
+
+int main()
+{
+    int att[5]={2,5,1,0,4};
+    int btt[5]={2,6,4,9,12};
+    int process[5]={0,1,2,3,4};
+    for(int i=0;i<5;i++)
+    {
+        for(int j=0;j<5;j++)
+        {
+            if(att[i]<att[j])
+            {
+                swap(att[i],att[j]);
+                swap(btt[i],btt[j]);
+                swap(process[i],process[j]);
+            }
+        }
+    }
+    int ctt[5];
+    int tat[5];
+    int wtt[5];
+    ctt[0]=btt[0]+att[0];
+    tat[0]=ctt[0]-att[0];
+    wtt[0]=tat[0]-btt[0];
+    for(int i=1;i<5;i++)
+    {
+        int sum=0;
+        if(att[i]<=ctt[i-1])
+        {
+            sum=ctt[i-1]+btt[i];
+        }else{
+            sum=att[i]+btt[i];
+        }
+        ctt[i]=sum;
+        tat[i]=ctt[i]-att[i];
+        wtt[i]=tat[i]-btt[i];
+    }
+    cout<<"process   at   bt   ct   tat   wt"<<endl;
+    for(int i=0;i<5;i++)
+    {
+        cout<<i<<"          "<<att[i]<<"   "<<btt[i]<<"    "<<ctt[i]<<"     "<<tat[i]<<"     "<<wtt[i]<<endl;
+    }
+    return 0;
+
+}
+21/01/23, 22:07 - garggautam2345: Netflix hai ??
+21/01/23, 22:07 - Bawa👬👬: Shkari kol h
+21/01/23, 22:07 - Bawa👬👬: Ki dekhna
+21/01/23, 22:07 - garggautam2345: Muk gyi
+21/01/23, 22:08 - Bawa👬👬: ??
+21/01/23, 22:08 - garggautam2345: Tere kol hai ke na
+21/01/23, 22:08 - Bawa👬👬: hdtoday.tv
+21/01/23, 22:08 - Bawa👬👬: Ete milju
+21/01/23, 22:08 - Bawa👬👬: Sara kuch
+23/01/23, 15:16 - Bawa👬👬: <Media omitted>
+23/01/23, 15:16 - Bawa👬👬: This message was deleted
+23/01/23, 21:58 - Bawa👬👬: Laptop use krrya??
+23/01/23, 21:58 - garggautam2345: Hmm
+23/01/23, 21:58 - garggautam2345: Kyon ki hoya
+23/01/23, 21:58 - Bawa👬👬: Kuch ni
+23/01/23, 22:18 - Bawa👬👬: Oe
+23/01/23, 22:18 - Bawa👬👬: Hotspot on kr
+23/01/23, 22:18 - Bawa👬👬: Lode
+23/01/23, 22:19 - Bawa👬👬: Missed voice call
+23/01/23, 22:19 - garggautam2345: On hai
+23/01/23, 22:19 - garggautam2345: Saleya
+23/01/23, 22:20 - garggautam2345: <Media omitted>
+23/01/23, 22:20 - Bawa👬👬: Pcda
+23/01/23, 22:20 - Bawa👬👬: Password
+24/01/23, 11:07 - Bawa👬👬: Bol
+24/01/23, 11:08 - Bawa👬👬: PC
+24/01/23, 11:08 - garggautam2345: BC kithe hian ?
+24/01/23, 11:08 - Bawa👬👬: Lib
+24/01/23, 11:08 - Bawa👬👬: Kyu
+01/02/23, 12:22 - garggautam2345: Ohna di Ladi tu.
+01/02/23, 12:22 - garggautam2345: Mein Gori dharm neeta shikari di lati
+01/02/23, 12:23 - Bawa👬👬: Kina di
+01/02/23, 12:23 - Bawa👬👬: Page kithe aa
+01/02/23, 12:23 - garggautam2345: Daku te cr di
+01/02/23, 12:23 - Bawa👬👬: Ok
+01/02/23, 12:23 - garggautam2345: Shayd mein cr di v lati
+01/02/23, 12:23 - garggautam2345: Joban kole hai
+01/02/23, 12:23 - Bawa👬👬: Page fda na
+01/02/23, 12:23 - garggautam2345: ..
+01/02/23, 21:26 - garggautam2345: <Media omitted>
+03/02/23, 16:32 - garggautam2345: <Media omitted>
+08/02/23, 12:17 - Bawa👬👬: https://youtu.be/4PKdr5PHniQ
+08/02/23, 19:03 - Bawa👬👬: Ki dikkt aa
+08/02/23, 19:03 - Bawa👬👬: Ki hoya
+08/02/23, 19:03 - garggautam2345: File aahi hai
+08/02/23, 19:03 - garggautam2345: Mp di
+08/02/23, 19:03 - garggautam2345: Ke hor e kuch
+08/02/23, 19:04 - Bawa👬👬: Pta ni
+08/02/23, 19:04 - garggautam2345: Bund mra
+08/02/23, 19:04 - Bawa👬👬: Aahi krla PC
+08/02/23, 19:04 - Bawa👬👬: Hor kuch
+08/02/23, 19:04 - garggautam2345: Bss
+08/02/23, 19:04 - Bawa👬👬: Saleya ek te file mili aa
+08/02/23, 19:04 - Bawa👬👬: PC
+08/02/23, 19:04 - garggautam2345: Bc rat Tak koi hor na aaje
+08/02/23, 19:05 - garggautam2345: Aapan aa chep diye
+08/02/23, 19:05 - Bawa👬👬: Oe OS di file bnai aa
+08/02/23, 19:05 - garggautam2345: Bc mp di hai kal
+08/02/23, 19:05 - Bawa👬👬: Acha
+08/02/23, 19:05 - Bawa👬👬: Chl koi na
+08/02/23, 19:05 - Bawa👬👬: Aa vi sala kuch karu
+08/02/23, 19:06 - garggautam2345: Os person hai kal bnavan ge
+08/02/23, 19:06 - Bawa👬👬: Jine bheji aa
+08/02/23, 19:06 - Bawa👬👬: Raat nu bnavage
+08/02/23, 19:06 - garggautam2345: Hmm
+08/02/23, 19:06 - Bawa👬👬: Hle bund mran de
+08/02/23, 19:06 - garggautam2345: Mahol ??
+08/02/23, 19:06 - Bawa👬👬: File nu
+08/02/23, 19:06 - garggautam2345: 🤣🤣🤣
+08/02/23, 19:06 - Bawa👬👬: File😅
+08/02/23, 19:06 - Bawa👬👬: PC
+09/02/23, 15:19 - Bawa👬👬: Hlo
+09/02/23, 15:19 - Bawa👬👬: Kithe aa
+09/02/23, 15:19 - Bawa👬👬: Phone te chk la
+10/02/23, 12:52 - garggautam2345: 1100
+10/02/23, 12:53 - garggautam2345: 600
+10/02/23, 12:53 - garggautam2345: -460
+10/02/23, 22:43 - garggautam2345: Oye
+10/02/23, 22:43 - garggautam2345: Room di chabi deji janda hoya
+10/02/23, 22:43 - Bawa👬👬: Aaho
+10/02/23, 22:43 - Bawa👬👬: Deke jauga
+12/02/23, 21:15 - garggautam2345: M ethe hi rukda aa
+13/02/23, 15:41 - garggautam2345: <Media omitted>
+14/02/23, 15:45 - garggautam2345: 380
+15/02/23, 10:47 - garggautam2345: 1800
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 11:51 - garggautam2345: <Media omitted>
+16/02/23, 13:48 - Bawa👬👬: <Media omitted>
+16/02/23, 13:49 - Bawa👬👬: Photo wali naal di
+16/02/23, 14:18 - Bawa👬👬: Missed video call
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:21 - garggautam2345: <Media omitted>
+16/02/23, 14:22 - garggautam2345: <Media omitted>
+16/02/23, 14:23 - garggautam2345: <Media omitted>
+16/02/23, 14:23 - garggautam2345: <Media omitted>
+16/02/23, 14:23 - garggautam2345: <Media omitted>
+16/02/23, 14:23 - Bawa👬👬: This message was deleted
+16/02/23, 14:24 - Bawa👬👬: <Media omitted>
+16/02/23, 14:24 - garggautam2345: <Media omitted>
+16/02/23, 14:24 - garggautam2345: <Media omitted>
+16/02/23, 14:26 - Bawa👬👬: Ede band ch hor colour dekhi
+16/02/23, 14:26 - Bawa👬👬: Koi vu
+16/02/23, 14:26 - Bawa👬👬: Vi*
+16/02/23, 14:29 - garggautam2345: <Media omitted>
+17/02/23, 19:43 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 19:46 - garggautam2345: <Media omitted>
+17/02/23, 20:23 - garggautam2345: <Media omitted>
+17/02/23, 20:25 - garggautam2345: <Media omitted>
+20/02/23, 16:53 - garggautam2345: Acc public kar de insta da
+20/02/23, 17:04 - Bawa👬👬: Kyo
+20/02/23, 17:04 - Bawa👬👬: Kato
+23/02/23, 21:55 - garggautam2345: <Media omitted>
+23/02/23, 21:55 - garggautam2345: Jaydev di hai
+23/02/23, 23:23 - garggautam2345: Oye
+23/02/23, 23:23 - garggautam2345: Lode
+23/02/23, 23:23 - garggautam2345: Hlo
+23/02/23, 23:23 - garggautam2345: Bc
+23/02/23, 23:24 - Bawa👬👬: 🖕
+23/02/23, 23:24 - garggautam2345: Mein tenu aavdi file share krden
+23/02/23, 23:24 - garggautam2345: Us chon dekhla
+23/02/23, 23:24 - Bawa👬👬: Acha
+23/02/23, 23:24 - Bawa👬👬: Ki
+23/02/23, 23:24 - garggautam2345: You deleted this message
+23/02/23, 23:24 - garggautam2345: Lan mera
+23/02/23, 23:24 - garggautam2345: Bc q
+23/02/23, 23:24 - Bawa👬👬: Lan- Local area network 😅
+23/02/23, 23:25 - garggautam2345: Hmmm
+23/02/23, 23:25 - garggautam2345: Smjdar ho gya tun
+23/02/23, 23:26 - garggautam2345: <Media omitted>
+26/02/23, 13:18 - garggautam2345: #include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--)
+	{
+	    int n;
+	    cin>>n;
+	    int arr[n];
+	    for(int i=0;i<n;i++)
+	    {
+	        cin>>arr[i];
+	}
+for(int i=0;i<n;i++)
+{
+    int counts =0;
+    for(int j=0;j<n;j++)
+    {
+        if(arr[i]==arr[j] && i!=j)
+        {
+            counts++;
+        }
+    }
+    if(counts==0)
+    {
+        cout<<arr[i];
+    }
+    
+}
+	}
+	return 0;
+}
+26/02/23, 13:18 - garggautam2345: #include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--)
+	{
+	    int n;
+	    cin>>n;
+	    int arr[n];
+	    for(int i=0;i<n;i++)
+	    {
+	        cin>>arr[i];
+	}
+	sort(arr,arr+n);
+	int counts=0;
+	for(int i=0;i<n-1;i+=2)
+	{
+	    if(arr[i]!=arr[i+1])
+	    {
+	        cout<<arr[i];
+	        counts++;
+	        break;
+	    }
+	}
+	if(counts==0)
+	{
+	    cout<<arr[n-1];
+	}
+	}
+	return 0;
+}
+26/02/23, 13:19 - garggautam2345: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+27/02/23, 08:44 - Bawa👬👬: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+04/03/23, 22:07 - garggautam2345: <Media omitted>
+07/03/23, 16:15 - garggautam2345: Videos send kr
+07/03/23, 16:18 - Bawa👬👬: Na
+07/03/23, 16:33 - Bawa👬👬: <Media omitted>
+07/03/23, 16:39 - Bawa👬👬: <Media omitted>
+07/03/23, 16:40 - Bawa👬👬: <Media omitted>
+07/03/23, 16:40 - Bawa👬👬: <Media omitted>
+07/03/23, 16:40 - Bawa👬👬: <Media omitted>
+07/03/23, 16:40 - Bawa👬👬: <Media omitted>
+07/03/23, 16:45 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+07/03/23, 16:46 - Bawa👬👬: <Media omitted>
+08/03/23, 00:08 - garggautam2345: Bol
+08/03/23, 00:08 - garggautam2345: Ki ae
+08/03/23, 00:10 - Bawa👬👬: Ni bolda
+08/03/23, 00:10 - garggautam2345: Bund mra
+13/03/23, 19:21 - garggautam2345: <Media omitted>
+13/03/23, 19:23 - garggautam2345: Hogi
+?
+13/03/23, 19:23 - Bawa👬👬: Bete scan kive kra
+13/03/23, 19:23 - Bawa👬👬: Enu
+13/03/23, 19:23 - garggautam2345: Tau hai ni
+13/03/23, 19:23 - Bawa👬👬: No. Puchi eni
+13/03/23, 19:23 - Bawa👬👬: M bathroom ch aa
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: This message was deleted
+13/03/23, 20:06 - Bawa👬👬: <Media omitted>
+13/03/23, 20:07 - Bawa👬👬: <Media omitted>
+13/03/23, 20:07 - Bawa👬👬: <Media omitted>
+15/03/23, 20:58 - garggautam2345: location: https://maps.google.com/?q=30.7234888,76.7787865
+18/03/23, 12:17 - Bawa👬👬: Same hi aa rate
+Rexin 200-300₹/m
+Shenyl 450-500₹/m
+19/03/23, 19:55 - Bawa👬👬: <Media omitted>
+21/03/23, 17:16 - Bawa👬👬: <Media omitted>
+24/03/23, 13:33 - garggautam2345: Karamveerbh3.vcf (file attached)
+08/04/23, 21:01 - Bawa👬👬: <Media omitted>
+08/04/23, 21:01 - Bawa👬👬: Krna kmm
+08/04/23, 21:01 - Bawa👬👬: 🤣🤣
+08/04/23, 21:03 - Bawa👬👬: Check out this job at Walmart Global Tech India: https://www.linkedin.com/jobs/view/3549392118
+08/04/23, 21:03 - Bawa👬👬: Aa dekhla j apply krna
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 19:51 - garggautam2345: <Media omitted>
+09/04/23, 20:03 - Bawa👬👬: <Media omitted>
+09/04/23, 20:09 - garggautam2345: index v kda li
+09/04/23, 20:09 - garggautam2345: <Media omitted>
+09/04/23, 20:12 - garggautam2345: topic bhejde
+09/04/23, 20:13 - Bawa👬👬: How Recession Affects Certain Industries
+09/04/23, 20:13 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+11/04/23, 08:51 - garggautam2345: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+12/04/23, 22:45 - Bawa👬👬: <Media omitted>
+13/04/23, 21:05 - Bawa👬👬: M neete nu kha
+13/04/23, 21:05 - Bawa👬👬: K majj nu khde paytm ni chlrya
+13/04/23, 21:05 - Bawa👬👬: Kl nu dedu pse
+13/04/23, 21:05 - Bawa👬👬: Ajj pyment krde
+14/04/23, 21:25 - Bawa👬👬: <Media omitted>
+14/04/23, 21:25 - Bawa👬👬: <Media omitted>
+14/04/23, 21:25 - Bawa👬👬: Beta full sleve aa eh
+14/04/23, 21:26 - Bawa👬👬: Ede naal jacket vi aa
+14/04/23, 21:26 - Bawa👬👬: Pr grmi ch pni ni
+14/04/23, 21:27 - Bawa👬👬: Dekhla j pju
+14/04/23, 21:27 - garggautam2345: Rehn de bs
+14/04/23, 21:28 - Bawa👬👬: Ki ??
+14/04/23, 21:28 - Bawa👬👬: <Media omitted>
+14/04/23, 21:41 - garggautam2345: <Media omitted>
+18/04/23, 19:59 - Bawa👬👬: Kal raat aale 1352
+18/04/23, 20:02 - garggautam2345: Nhi aande
+19/04/23, 13:47 - garggautam2345: live location shared
+
+19/04/23, 14:00 - garggautam2345: <Media omitted>
+20/04/23, 23:17 - Bawa👬👬: <Media omitted>
+20/04/23, 23:17 - Bawa👬👬: <Media omitted>
+20/04/23, 23:17 - Bawa👬👬: <Media omitted>
+20/04/23, 23:17 - Bawa👬👬: <Media omitted>
+21/04/23, 01:54 - Bawa👬👬: <Media omitted>
+21/04/23, 01:54 - Bawa👬👬: Kaka file dekhla apni
+21/04/23, 08:11 - garggautam2345: 1st aoge aayin banane
+21/04/23, 08:11 - garggautam2345: *page
+21/04/23, 08:11 - garggautam2345: Baki thik thik hai 🤣🤣
+21/04/23, 11:07 - Bawa👬👬: POLL:
+Tu fudu aa
+OPTION: Yes (0 votes)
+OPTION: Yessss (0 votes)
+
+30/04/23, 11:26 - garggautam2345: <Media omitted>
+30/04/23, 11:37 - garggautam2345: <Media omitted>
+30/04/23, 11:54 - garggautam2345: <Media omitted>
+30/04/23, 12:04 - Bawa👬👬: Iff likhya va ese lai converse te simple dono chija prove krnia pndia va
+30/04/23, 12:05 - Bawa👬👬: Aa aunde aa
+30/04/23, 12:05 - Bawa👬👬: Pr phone te ni smj aane
+30/04/23, 18:47 - Bawa👬👬: <Media omitted>
+30/04/23, 23:21 - garggautam2345: <Media omitted>
+02/05/23, 07:18 - garggautam2345: oye z* ki hunda hai
+02/05/23, 12:20 - Bawa👬👬: 01722541242
+06/05/23, 15:02 - Bawa👬👬: Machine learning with image processing ya frr deep learning
+06/05/23, 15:02 - garggautam2345: Lode  project sokha hoju es ch
+06/05/23, 15:03 - garggautam2345: Tan college ch web paedine aa te un
+06/05/23, 15:03 - garggautam2345: Aa kelan ge
+07/05/23, 23:23 - Bawa👬👬: K hoya phone krrya si
+08/05/23, 13:15 - Bawa👬👬: Aa linux aale output aa
+08/05/23, 13:16 - Bawa👬👬: J chahide te use krli
+08/05/23, 13:16 - garggautam2345: Koini mein aape puri krdun file
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+08/05/23, 13:16 - Bawa👬👬: <Media omitted>
+09/05/23, 09:21 - Bawa👬👬: <Media omitted>
+10/05/23, 00:09 - garggautam2345: You deleted this message
+10/05/23, 00:09 - garggautam2345: Hlo
+10/05/23, 00:09 - garggautam2345: Oye
+10/05/23, 00:09 - garggautam2345: Jagden?
+10/05/23, 00:09 - Bawa👬👬: Ki aa
+10/05/23, 00:10 - Bawa👬👬: Tkai ni tenu
+10/05/23, 00:10 - garggautam2345: Bike di hor chabi hai tere kol
+10/05/23, 00:10 - garggautam2345: ??
+10/05/23, 00:10 - Bawa👬👬: Na
+10/05/23, 00:10 - Bawa👬👬: Shyd
+10/05/23, 00:10 - garggautam2345: Schi ds
+10/05/23, 00:10 - Bawa👬👬: Kyu
+10/05/23, 00:10 - Bawa👬👬: Ki krra hun
+10/05/23, 00:10 - garggautam2345: Ghum gyi
+10/05/23, 00:10 - Bawa👬👬: PC
+10/05/23, 00:10 - garggautam2345: Haigi hai ke na
+10/05/23, 00:10 - Bawa👬👬: Tera hi kmm huna
+10/05/23, 00:10 - Bawa👬👬: Hougi
+10/05/23, 00:10 - garggautam2345: Bc km di gl karla
+10/05/23, 00:11 - garggautam2345: Le ke aai pher
+10/05/23, 00:11 - Bawa👬👬: Okay
+10/05/23, 00:11 - Bawa👬👬: ..
+10/05/23, 00:11 - garggautam2345: Lan phad den raat nu soja pc
+10/05/23, 00:11 - garggautam2345: Tun ki lena
+10/05/23, 00:11 - garggautam2345: Bs ghum gyi tan ghum gyi
+10/05/23, 00:11 - Bawa👬👬: Acha
+10/05/23, 00:12 - garggautam2345: Hmm 🤣
+10/05/23, 00:12 - Bawa👬👬: Chl soja hun
+10/05/23, 22:58 - garggautam2345: <Media omitted>
+11/05/23, 10:21 - Bawa👬👬: Oe library to lai lya va oo jeda lna si
+11/05/23, 10:22 - Bawa👬👬: 15-4=11+3=14
+11/05/23, 16:42 - garggautam2345: <Media omitted>
+11/05/23, 17:24 - Bawa👬👬: <Media omitted>
+12/05/23, 11:25 - Bawa👬👬: <Media omitted>
+12/05/23, 12:05 - Bawa👬👬: <Media omitted>
+12/05/23, 12:10 - garggautam2345: Bhejde put
+12/05/23, 12:11 - Bawa👬👬: <Media omitted>
+12/05/23, 12:11 - Bawa👬👬: Theek aa
+12/05/23, 12:11 - garggautam2345: Puchdan ik mint
+12/05/23, 12:11 - garggautam2345: Menu mail karde eh
+12/05/23, 12:11 - garggautam2345: Garggautam2345@gmail
+12/05/23, 12:12 - Bawa👬👬: Krta
+12/05/23, 12:13 - garggautam2345: uietlib@gmail.com
+12/05/23, 12:13 - garggautam2345: Bawa es te karde
+12/05/23, 12:13 - garggautam2345: Aavda id card
+12/05/23, 12:13 - garggautam2345: V
+12/05/23, 12:14 - Bawa👬👬: Mail kra
+12/05/23, 12:14 - Bawa👬👬: ??
+12/05/23, 12:14 - garggautam2345: Te mera naam pa di thale v es bnde nu dedo
+12/05/23, 12:14 - garggautam2345: Haan
+12/05/23, 12:14 - garggautam2345: Menu dsdi jdon krta
+12/05/23, 12:15 - garggautam2345: Undertaking v naal attach kardi
+12/05/23, 12:17 - Bawa👬👬: <Media omitted>
+12/05/23, 12:17 - Bawa👬👬: Krta mail
+12/05/23, 12:22 - garggautam2345: Id aahi pri hai
+12/05/23, 12:22 - garggautam2345: ?
+12/05/23, 12:23 - Bawa👬👬: Haan
+12/05/23, 12:23 - garggautam2345: uietlibrary@gmail.com
+12/05/23, 12:23 - Bawa👬👬: Ete kita mail
+12/05/23, 12:23 - garggautam2345: Es te v karde
+12/05/23, 12:23 - garggautam2345: Sc bhejde karke
+12/05/23, 12:24 - Bawa👬👬: Okay
+12/05/23, 12:25 - garggautam2345: Krti??
+12/05/23, 12:26 - Bawa👬👬: Jari aa wait
+12/05/23, 12:26 - Bawa👬👬: <Media omitted>
+12/05/23, 12:43 - Bawa👬👬: Hogya
+12/05/23, 12:43 - garggautam2345: Horr
+12/05/23, 12:44 - Bawa👬👬: milgya card
+12/05/23, 12:44 - garggautam2345: Hmm
+16/05/23, 22:29 - garggautam2345: <Media omitted>
+16/05/23, 22:29 - garggautam2345: <Media omitted>
+16/05/23, 22:29 - garggautam2345: <Media omitted>
+16/05/23, 22:29 - garggautam2345: <Media omitted>
+19/05/23, 02:18 - Bawa👬👬: <Media omitted>
+19/05/23, 21:51 - Bawa👬👬: https://www.collegepravesh.com/cutoff/uiet-chandigarh-cutoff-2022/
+21/05/23, 15:48 - garggautam2345: Oye pen le aayi an je book prin aayen ga
+21/05/23, 20:35 - garggautam2345: 1st chapter di photos bhej serial order ch
+21/05/23, 20:35 - Bawa👬👬: Kitho kitho tk
+21/05/23, 20:35 - garggautam2345: Jehda v hai os vich
+21/05/23, 20:35 - garggautam2345: Mere kol notes nhi hai usde
+21/05/23, 20:37 - Bawa👬👬: <Media omitted>
+21/05/23, 20:37 - Bawa👬👬: <Media omitted>
+21/05/23, 20:37 - Bawa👬👬: <Media omitted>
+21/05/23, 20:37 - Bawa👬👬: <Media omitted>
+21/05/23, 20:37 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+21/05/23, 20:38 - Bawa👬👬: <Media omitted>
+30/05/23, 09:51 - Bawa👬👬: Oe tera link kithe rhgya
+30/05/23, 09:53 - garggautam2345: https://pantech.ai/sp/learn-ai?fbclid=PAAab_hp2Mo6ghxcoCbEyc4uycBZmFCG0AFAn3DnS0ogxecHCVd3E6lOmB7P8_aem_th_AUJ3VwBXJ7tm58NFuhIvhwWk21sgMvm2JvOjPfEZH-O2nr7hZ_ykyxD94C70X72Qo2j6QHdbBYiz43A0wnMmZ8Vc
+02/06/23, 22:27 - Bawa👬👬: 2 min khdja
+02/06/23, 22:27 - garggautam2345: Ki hoya
+02/06/23, 22:27 - garggautam2345: 🤣🤣
+02/06/23, 22:28 - Bawa👬👬: Ruk ja
+02/06/23, 22:32 - Bawa👬👬: Missed video call
+06/06/23, 10:17 - Bawa👬👬: https://www.pantechsolutions.net/internship-on-artificial-intelligence
+06/06/23, 10:18 - Bawa👬👬: https://pantech.ai/warriorsway-summer-internship-f
+06/06/23, 10:23 - Bawa👬👬: https://pantech.ai/op/30days_ai_english_free
+06/06/23, 10:43 - Bawa👬👬: oe gomsi
+06/06/23, 10:43 - Bawa👬👬: hlo
+06/06/23, 10:43 - Bawa👬👬: oe
+06/06/23, 10:43 - Bawa👬👬: oe sun
+06/06/23, 10:43 - garggautam2345: Bhink
+06/06/23, 10:43 - garggautam2345: Bhonk
+06/06/23, 10:43 - Bawa👬👬: https://www.edureka.co/internship/data-science-and-machine-learning-program?gclid=Cj0KCQjwj_ajBhCqARIsAA37s0xtBPoQEI_M2gR3T65RE--Pc_mpOY9TD8ev9d0xV6qEn0A-veyqbs0aAnktEALw_wcB
+06/06/23, 10:43 - Bawa👬👬: aa vekhi ek vaar
+07/06/23, 13:37 - garggautam2345: <Media omitted>
+07/06/23, 13:37 - garggautam2345: <Media omitted>
+12/06/23, 16:01 - Bawa👬👬: Vadhaiyan ji 🎉
+12/06/23, 16:35 - garggautam2345: Thanku bro ❤️❤️
+12/06/23, 16:52 - Bawa👬👬: Saleya bina dekhe message kita si??
+12/06/23, 16:52 - garggautam2345: kuyon ki hoya
+12/06/23, 16:53 - garggautam2345: Achaa smj gya 🤣🤣
+23/06/23, 13:23 - Bawa👬👬: *🔰Code With Cisco*
+
+The 24-hour code-a-thon is designed to provide a dynamic platform for like-minded individuals to collaborate on a complex problem, exchange ideas and make an impact.
+Participants to get prizes and opportunity to interview with Cisco for an *internship/full-time role.*
+
+*Eligibility:*
+B.E/M.E -All Branches 
+Batch-2024 and 2025 only
+No active backlog at the time of registration.
+
+*Guidelines:*
+▪️Mandatory Team Size of 3.
+▪️All the participants must be willing to travel to Bangalore for final round.
+
+*Registration:*
+https://app.smartsheet.com/b/form/562dc60dc37141f38536956c2ed353b3
+
+*Key Dates:*
+▪️Deadline to register: 25th June 2023, 12:00 PM.
+▪️Online Assessment for Team:
+28th June 2023
+(The shortlisting process will include an online team assessment)
+
+_Regards,_
+_Training And Placement Cell_
+23/06/23, 21:51 - garggautam2345: <Media omitted>
+23/06/23, 21:51 - garggautam2345: <Media omitted>
+23/06/23, 21:51 - garggautam2345: <Media omitted>
+23/06/23, 21:51 - garggautam2345: <Media omitted>
+23/06/23, 21:53 - garggautam2345: <Media omitted>
+23/06/23, 21:54 - garggautam2345: <Media omitted>
+23/06/23, 21:54 - garggautam2345: <Media omitted>
+24/06/23, 11:29 - garggautam2345: <Media omitted>
+24/06/23, 11:43 - garggautam2345: <Media omitted>
+24/06/23, 11:49 - Bawa👬👬: Bund maar silicon di
+24/06/23, 11:49 - Bawa👬👬: Swad chain aali da hi aaunda va
+24/06/23, 11:49 - garggautam2345: Saleya es da dial bala vdiya lag reha
+24/06/23, 11:50 - Bawa👬👬: Naa yaar
+24/06/23, 11:50 - Bawa👬👬: Mjq ni aauna rubber strap da
+24/06/23, 11:51 - garggautam2345: Pher upper vali hi le laan
+24/06/23, 11:51 - Bawa👬👬: Haan
+24/06/23, 11:51 - garggautam2345: Ke es te strap lva liye
+24/06/23, 11:51 - Bawa👬👬: Aa sbto vadia
+24/06/23, 11:52 - Bawa👬👬: Strap dusra lvai jida da meri o black ghadi da va
+24/06/23, 11:52 - garggautam2345: Hnn
+24/06/23, 11:52 - garggautam2345: Dial vdiya hai na
+24/06/23, 11:53 - Bawa👬👬: J strap change hunda fer theek aa
+24/06/23, 11:53 - garggautam2345: Okk
+11/07/23, 21:18 - garggautam2345: <Media omitted>
+19/07/23, 07:59 - garggautam2345: <Media omitted>
+19/07/23, 07:59 - garggautam2345: <Media omitted>
+20/07/23, 23:11 - garggautam2345: Oye
+20/07/23, 23:12 - Bawa👬👬: Ki aa
+20/07/23, 23:23 - garggautam2345: You deleted this message
+26/07/23, 14:29 - Bawa👬👬: <Media omitted>
+29/07/23, 01:39 - garggautam2345: Bhejde
+29/07/23, 01:39 - garggautam2345: Oye
+29/07/23, 01:39 - garggautam2345: Lode
+29/07/23, 01:39 - Bawa👬👬: <Media omitted>
+29/07/23, 01:39 - Bawa👬👬: <Media omitted>
+29/07/23, 01:39 - Bawa👬👬: <Media omitted>
+29/07/23, 01:39 - Bawa👬👬: <Media omitted>
+29/07/23, 01:40 - Bawa👬👬: <Media omitted>
+29/07/23, 23:41 - garggautam2345: <Media omitted>
+29/07/23, 23:44 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+29/07/23, 23:45 - Bawa👬👬: <Media omitted>
+30/07/23, 11:18 - Bawa👬👬: <Media omitted>
+31/07/23, 11:28 - garggautam2345: Smash karts ??
+31/07/23, 11:28 - garggautam2345: Oye
+31/07/23, 11:28 - garggautam2345: Oyeo
+31/07/23, 11:29 - Bawa👬👬: Na
+31/07/23, 11:29 - Bawa👬👬: Asi samne bthe aa
+01/08/23, 11:41 - garggautam2345: <Media omitted>
+01/08/23, 11:41 - garggautam2345: <Media omitted>
+01/08/23, 14:09 - Bawa👬👬: Missed voice call
+02/08/23, 14:54 - Bawa👬👬: Gym kd jana
+02/08/23, 14:54 - garggautam2345: 5 ja 7
+02/08/23, 14:54 - garggautam2345: 7vje chaliye ?
+02/08/23, 14:54 - garggautam2345: Raat nu lod nhi paini pdn di
+02/08/23, 14:55 - garggautam2345: Rehn de peya nhi jana ehna time
+02/08/23, 14:55 - Bawa👬👬: Chl ajj try krde aa
+02/08/23, 14:55 - garggautam2345: Gori ton v pichla
+02/08/23, 14:55 - Bawa👬👬: 5 vje te jana ni
+02/08/23, 14:55 - Bawa👬👬: Kl yaar 7 vje aae si apa
+02/08/23, 14:56 - Bawa👬👬: 6-7 vje bheed hon lg jandi aa
+02/08/23, 14:56 - garggautam2345: Saleya leg tan free hi hundi hai
+02/08/23, 14:56 - Bawa👬👬: 4 vje chliye
+02/08/23, 14:56 - garggautam2345: Chal pher 4 vje chaliye
+02/08/23, 14:56 - Bawa👬👬: Nhi ji
+02/08/23, 14:56 - Bawa👬👬: Okay
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+03/08/23, 23:41 - Bawa👬👬: <Media omitted>
+04/08/23, 23:35 - garggautam2345: <Media omitted>
+09/08/23, 07:24 - Bawa👬👬: <Media omitted>
+09/08/23, 07:27 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:28 - Bawa👬👬: <Media omitted>
+09/08/23, 07:30 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:56 - Bawa👬👬: <Media omitted>
+09/08/23, 13:57 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+09/08/23, 13:58 - Bawa👬👬: <Media omitted>
+10/08/23, 14:37 - Bawa👬👬: <Media omitted>
+10/08/23, 14:39 - garggautam2345: Ln te vaj
+10/08/23, 16:26 - Bawa👬👬: Kritika nu khde o dsdugi
+10/08/23, 16:26 - Bawa👬👬: Naale tu gal krlu
+10/08/23, 16:26 - garggautam2345: Achaa
+10/08/23, 16:26 - Bawa👬👬: Bdia moka
+10/08/23, 16:26 - Bawa👬👬: Fer ni milna
+10/08/23, 16:27 - garggautam2345: Achaa je tenu ehna pta mokeyan da taan avde vaste lab
+10/08/23, 16:27 - garggautam2345: Hathi ne tan chalte fatte aj
+10/08/23, 16:27 - garggautam2345: Nal baith ke adha ghanta
+10/08/23, 16:27 - Bawa👬👬: Chl koi na
+10/08/23, 16:28 - garggautam2345: Son lge puchli ohnu
+10/08/23, 16:28 - Bawa👬👬: Kithe aa tu
+10/08/23, 16:34 - garggautam2345: Room ch
+10/08/23, 16:34 - garggautam2345: Gym jane
+10/08/23, 16:38 - Bawa👬👬: Ghre ni jana
+10/08/23, 16:38 - garggautam2345: Kal jaunga
+14/08/23, 01:41 - garggautam2345: Hlo
+14/08/23, 01:41 - garggautam2345: Oye
+14/08/23, 11:14 - garggautam2345: ???
+14/08/23, 12:37 - Bawa👬👬: <Media omitted>
+15/08/23, 13:42 - Bawa👬👬: O penchoda phone chkla
+15/08/23, 13:43 - Bawa👬👬: Kedi maa naal lgga va
+15/08/23, 13:43 - Bawa👬👬: Fuddi deya chkla phone
+18/08/23, 19:47 - Bawa👬👬: Missed video call
+21/08/23, 10:56 - Bawa👬👬: <Media omitted>
+21/08/23, 14:43 - garggautam2345: <Media omitted>
+21/08/23, 14:55 - Bawa👬👬: Line 16 ch e-- ni aau
+21/08/23, 14:55 - Bawa👬👬: Missed voice call
+21/08/23, 14:56 - garggautam2345: Is alpha vala method nhi chak reha
+21/08/23, 14:56 - garggautam2345: Eh
+21/08/23, 14:57 - Bawa👬👬: Isalpha h ki aa
+21/08/23, 14:57 - garggautam2345: Mtlb je special char hai tan incr decor karna
+21/08/23, 14:57 - garggautam2345: Hai
+21/08/23, 14:58 - garggautam2345: Is aplha dsuga v eh alphabet hai ya nhi
+21/08/23, 14:57 - Bawa👬👬: Acha
+21/08/23, 14:58 - garggautam2345: Is digit dsuga v eh digit hai ya nhi
+21/08/23, 14:58 - Bawa👬👬: Ek vaar e-- kri othe
+21/08/23, 14:58 - garggautam2345: Special char ota karn da hor treeka nhi hai koi
+21/08/23, 14:58 - garggautam2345: Karta
+21/08/23, 14:58 - Bawa👬👬: Chlya??
+21/08/23, 14:58 - garggautam2345: Na
+21/08/23, 14:58 - garggautam2345: <Media omitted>
+21/08/23, 14:58 - Bawa👬👬: M kita hoya eh
+21/08/23, 14:58 - Bawa👬👬: Bheja soln
+21/08/23, 14:59 - garggautam2345: Bhej
+21/08/23, 14:59 - Bawa👬👬: Isalpha di Library include kr saleya
+21/08/23, 14:59 - Bawa👬👬: O error deri aa
+21/08/23, 14:59 - garggautam2345: bits vali includea hai
+21/08/23, 16:10 - Bawa👬👬: Isalpha na kr fer
+21/08/23, 16:10 - Bawa👬👬: Likhya one ki isalpha not declared
+22/08/23, 14:13 - Bawa👬👬: Kithe aa
+22/08/23, 14:13 - Bawa👬👬: ??
+22/08/23, 14:13 - Bawa👬👬: Missed voice call
+22/08/23, 14:16 - Bawa👬👬: Hlo
+22/08/23, 14:16 - Bawa👬👬: Oe
+22/08/23, 14:17 - garggautam2345: Boll
+22/08/23, 14:17 - garggautam2345: Ki hoya
+22/08/23, 14:19 - Bawa👬👬: Dsna ni si
+22/08/23, 14:19 - Bawa👬👬: K lab lggy
+22/08/23, 14:19 - garggautam2345: Menu v huni pta lgya
+22/08/23, 14:19 - Bawa👬👬: Ok
+22/08/23, 14:19 - garggautam2345: Gori aa reha tere kol
+22/08/23, 14:19 - Bawa👬👬: Tu aarya k hathi aau
+22/08/23, 14:20 - garggautam2345: Gori
+22/08/23, 14:20 - garggautam2345: Lib aa reha
+22/08/23, 14:20 - Bawa👬👬: Kithe aa
+22/08/23, 14:20 - garggautam2345: Os ton scooty lela
+22/08/23, 14:20 - garggautam2345: Chal pya ethon
+22/08/23, 14:32 - garggautam2345: aaja
+22/08/23, 14:34 - Bawa👬👬: Rukja
+22/08/23, 21:00 - Bawa👬👬: <Media omitted>
+23/08/23, 22:55 - garggautam2345: <Media omitted>
+24/08/23, 12:42 - garggautam2345: Oye
+24/08/23, 12:42 - garggautam2345: Chaliye
+24/08/23, 12:43 - garggautam2345: Fudi dya
+24/08/23, 12:43 - Bawa👬👬: 2 min
+24/08/23, 12:50 - garggautam2345: Oye bheji
+24/08/23, 12:50 - garggautam2345: Oh drashti aale
+24/08/23, 12:51 - Bawa👬👬: <Media omitted>
+24/08/23, 12:51 - Bawa👬👬: <Media omitted>
+24/08/23, 12:51 - Bawa👬👬: <Media omitted>
+25/08/23, 19:41 - garggautam2345: <Media omitted>
+25/08/23, 19:41 - garggautam2345: <Media omitted>
+25/08/23, 19:41 - garggautam2345: <Media omitted>
+25/08/23, 19:41 - garggautam2345: <Media omitted>
+25/08/23, 19:41 - garggautam2345: <Media omitted>
+26/08/23, 02:39 - Bawa👬👬: <Media omitted>
+26/08/23, 02:40 - Bawa👬👬: <Media omitted>
+26/08/23, 11:14 - Bawa👬👬: <Media omitted>
+30/08/23, 16:56 - Bawa👬👬: <Media omitted>
+30/08/23, 17:59 - garggautam2345: Kya baat ae
+30/08/23, 22:26 - Bawa👬👬: Phone ni chkda??
+30/08/23, 22:31 - garggautam2345: Naa aj ni chakda 😂
+31/08/23, 12:39 - garggautam2345: Oye
+31/08/23, 12:39 - garggautam2345: Aa sukhe da practical kiven krna
+31/08/23, 12:39 - garggautam2345: Kdon dena
+31/08/23, 12:39 - Bawa👬👬: Hnji
+31/08/23, 12:40 - Bawa👬👬: Pta ni
+31/08/23, 12:40 - garggautam2345: Tun kdon devenga
+31/08/23, 12:40 - Bawa👬👬: Jdo theek hou udo kru
+31/08/23, 12:40 - garggautam2345: Okk
+01/09/23, 23:03 - garggautam2345: Hlo
+01/09/23, 23:03 - garggautam2345: Jagden
+01/09/23, 23:03 - garggautam2345: ??
+02/09/23, 07:14 - Bawa👬👬: Nhi
+02/09/23, 07:32 - garggautam2345: Sala
+02/09/23, 20:27 - garggautam2345: Haan v kiven ae hun
+03/09/23, 07:51 - Bawa👬👬: Ove hi
+10/09/23, 20:40 - Bawa👬👬: Hnji
+10/09/23, 20:41 - garggautam2345: Patwari ne gl krni c tere nal
+10/09/23, 20:41 - Bawa👬👬: Ghrde naal bthe
+10/09/23, 20:41 - garggautam2345: Okk bad cb krde haan
+15/09/23, 10:48 - garggautam2345: Oye Madama nu msg paade v mein medical leave te han
+15/09/23, 10:49 - garggautam2345: Agle hafte show krdun medical
+15/09/23, 11:56 - Bawa👬👬: Kedi madam
+15/09/23, 11:56 - garggautam2345: Minakshi te uma
+15/09/23, 11:57 - Bawa👬👬: Attendance short krti??
+19/09/23, 20:22 - Bawa👬👬: <Media omitted>
+20/09/23, 17:18 - Bawa👬👬: <Media omitted>
+21/09/23, 13:37 - garggautam2345: Mere paise tere prs ch reh gye 🥹🥹
+21/09/23, 14:03 - Bawa👬👬: Oo
+21/09/23, 14:03 - Bawa👬👬: Bala ghata p gya
+21/09/23, 14:04 - garggautam2345: 😰😰
+21/09/23, 14:04 - garggautam2345: Paade yr
+21/09/23, 14:05 - Bawa👬👬: Lun??
+Online kida pada
+24/09/23, 23:06 - Bawa👬👬: This message was deleted
+24/09/23, 23:07 - garggautam2345: <Media omitted>
+27/09/23, 20:39 - garggautam2345: Oye
+27/09/23, 20:39 - garggautam2345: Bc
+27/09/23, 20:39 - garggautam2345: Roti
+27/09/23, 20:39 - Bawa👬👬: Bol BC
+27/09/23, 20:39 - garggautam2345: ..
+27/09/23, 20:39 - Bawa👬👬: Ruk ja
+27/09/23, 20:40 - Bawa👬👬: Gori vi khrya
+27/09/23, 20:40 - garggautam2345: Ki
+27/09/23, 20:40 - garggautam2345: ??
+27/09/23, 20:40 - Bawa👬👬: Hle 30mins ruko
+27/09/23, 20:40 - Bawa👬👬: Rukja
+27/09/23, 20:40 - garggautam2345: 🍻
+27/09/23, 20:41 - Bawa👬👬: Nhi khrya
+27/09/23, 20:43 - garggautam2345: Ki
+27/09/23, 20:43 - Bawa👬👬: Nhi pini
+27/09/23, 20:43 - Bawa👬👬: Gori khrya
+27/09/23, 20:43 - garggautam2345: Pta menu
+27/09/23, 20:43 - garggautam2345: Sala
+27/09/23, 20:43 - garggautam2345: Login paya c
+27/09/23, 20:43 - garggautam2345: Vaise hi paya c
+27/09/23, 20:43 - garggautam2345: Tu serious ho gya
+27/09/23, 20:44 - Bawa👬👬: Ki khi jana
+27/09/23, 20:44 - garggautam2345: Tu taam bhala hi haib
+27/09/23, 20:44 - Bawa👬👬: Hilgya k tu
+28/09/23, 18:25 - Bawa👬👬: https://intellipaat.com/blog/what-is-cyber-law/#:~:text=Cyber%20law%20deals%20with%20the,expression%20in%20the%20digital%20space.
+28/09/23, 18:25 - Bawa👬👬: <Media omitted>
+28/09/23, 18:25 - Bawa👬👬: https://www.techtarget.com/searchcio/definition/e-commerce#:~:text=E%2Dcommerce%20(electronic%20commerce),or%20consumer%2Dto%2Dbusiness.
+28/09/23, 18:25 - Bawa👬👬: https://ebizfiling.com/blog/e-commerce-taxation-in-india/#:~:text=E%2Dcommerce%20taxation%20under%20Section%20194O%20of%20the%20Income%20Tax%20Act,-E%2Dcommerce%20operators&text=Let%20us%20illustrate%20this%20with,on%20the%20INR%2025%20lacs.
+28/09/23, 18:34 - Bawa👬👬: <Media omitted>
+30/09/23, 11:13 - Bawa👬👬: Sanjogs Wedding Cards and Boxes- Wedding Boxes In Chandigarh| Wedding Cards In Chandigarh
+098151 55507 https://g.co/kgs/rZvzvT
+30/09/23, 11:13 - Bawa👬👬: https://g.co/kgs/d2H1P6
+02/10/23, 22:18 - garggautam2345: <Media omitted>
+02/10/23, 22:18 - garggautam2345: Aa dekh kinni information pass hundi hai kudiyan nu
+04/10/23, 15:01 - Bawa👬👬: <Media omitted>
+05/10/23, 23:57 - garggautam2345: <Media omitted>
+05/10/23, 23:59 - garggautam2345: <Media omitted>
+06/10/23, 00:01 - garggautam2345: <Media omitted>
+08/10/23, 09:04 - garggautam2345: <Media omitted>
+08/10/23, 16:53 - Bawa👬👬: Take a look at this FOSSIL Izzy Izzy Analog Watch  - For Women on Flipkart https://dl.flipkart.com/dl/fossil-izzy-analog-watch-women/p/itm522147d011818?pid=WATFWYU3ZGMR58SY&cmpid=product.share.pp&_refId=PP.69934e51-7646-47d8-856c-8deb1573fbb8.WATFWYU3ZGMR58SY&_appId=WA
+08/10/23, 17:24 - garggautam2345: <Media omitted>
+08/10/23, 17:32 - garggautam2345: <Media omitted>
+09/10/23, 21:01 - Bawa👬👬: *🌟 Diesel Mega Chief collection, Trendy New colour available & Ready to ship today 🌟*
+
+*AVAILABLE GOLD COLOUR*
+
+# Diesel 10 bar
+# For Men
+# 7A Quality 
+# Date working
+# All chronograph working
+# Gold metal chain
+
+ *Heavy Quality Machinery* ❤
+
+
+*PRICE :- 1499 + ship*
+09/10/23, 21:01 - Bawa👬👬: Cash on delivery available 99/- inr ship charges applicable extra and advance.
+
+Bill amount of 1499/- inr to be paid to the delivery person at the time of delivery
+09/10/23, 21:01 - Bawa👬👬: <Media omitted>
+09/10/23, 21:01 - Bawa👬👬: Discount and free shipping available on pre-paid bookings 🫶🏻💕
+Dm now ☺️
+09/10/23, 21:01 - Bawa👬👬: <Media omitted>
+09/10/23, 21:01 - Bawa👬👬: Details providing
+09/10/23, 21:01 - Bawa👬👬: Yes available 1999/ inr
+10/10/23, 10:45 - Bawa👬👬: ✅ *OMEGA’s Rich Seamaster Aqua Terra has always provided the perfect balance between sophistication and ocean spirit* ✅
+
+🌟 Omega modern mechanical watch collection now available & Ready to ship today 🌟
+
+# Omega
+# For Men
+# 7AA Premium Collection
+# Model - Seamaster Aqua Terra
+# Dial Size - 43mm
+# Features follows -
+
+*REDESIGNING THE TRADITIONAL SEAMASTER* ❣️
+
+- Working automatic
+- Date Indicator
+- Steel on Steel case
+- Water Resistant
+- 3D Green dial
+- Genuine sapphire tinted blue glass
+- Screw in crown
+- Transparent case back 
+- Original dual clasp Omega heavy lock
+- Model number embossed on lock
+- *Hi End Original Japanese Automatic movement* ❤️
+
+✨ New luxurious model updated & *Free Omega Brand box* ✨
+
+*Available @ Rs 5899/- Free Shipping ✅*
+10/10/23, 10:45 - Bawa👬👬: <Media omitted>
+10/10/23, 10:46 - Bawa👬👬: <Media omitted>
+11/10/23, 19:00 - Bawa👬👬: *Ampup yourself with this black metallic mega chief watch by Diesel crafted in stainless steel featuring bracelet strap, analog display, quartz movement & water resistant *✅
+
+🌟 Diesel 10BAR Mega Chief Chronograph collection, Trendy Black now available & Ready to ship today 🌟   
+
+# Diesel 
+# For Men 
+# 7AA Premium Quality  
+# Model-10 Bar 
+# Case Size - 59mm 
+# Feature-
+- Working Chronograph
+- Full stainless steel rust free Black metal bracelet with beautiful look dial
+- Blue contrast needles
+- Diesel embossing time & *Heavy Quality Chronograph Machinery* ❤   
+- High-End Battery Operated Machinery 
+- All Black Outlook 🔥
+
+✨ New colour with Price Updated & *Free Diesel Brand name box* ✨   
+
+*Available @ Rs 1499/- Free Shipping Only* 🔥
+
+✅ *Note - Product delivered will be same quality as shown in pictures no changes seen.* ✅
+
+➡️ *ALL SELF CLICKED PICTURES AND VIDEO* 
+➡️ *COD AVAILABLE*
+➡️ *SAME DAY SHIPPING*
+11/10/23, 19:00 - Bawa👬👬: Aagi stock ch
+11/10/23, 19:01 - Bawa👬👬: <Media omitted>
+11/10/23, 19:01 - Bawa👬👬: <Media omitted>
+11/10/23, 19:02 - Bawa👬👬: ✅ *A sporty  Emporio Armani equipped with Rose case figures dial Designed for men with urban, on-the-go lifestyles.* ✅
+
+🌟 *ARMANI MECCANICO ALL COLORS RESTOCKED* 🌟
+
+# Emporio Armani
+# For Men's
+# 7AA 
+# Model - Meccanico
+# Diai Size - 43mm
+# Premium Day Date technology
+
+*ENSURES THE LEGENDARY & SOPHISTICATED LOOK* ❣️
+
+- Working 12 hour analog
+- All Working Counters
+- Exclusive Open Dial Technology
+- RoseGold - Silver and Black band 
+- OG Butterfly Lock 
+- Radium Enabled Needle
+
+- *100% QUALITY* ❤️
+
+Available @ Rs 2499/- Plus Shipping
+13/10/23, 14:01 - garggautam2345: <Media omitted>
+13/10/23, 14:06 - Bawa👬👬: import socket
+from cryptography.fernet import Fernet
+import hashlib
+
+def caesar_cipher(text, shared_key):
+    encrypted_text = ""
+    for char in text:
+        if char.isalpha():
+            is_upper = char.isupper()
+            char_offset = ord(char.lower()) - ord('a')
+            new_offset = (char_offset + shared_key) % 26
+            new_char = chr(new_offset + ord('a'))
+            if is_upper:
+                new_char = new_char.upper()
+            encrypted_text += new_char
+        else:
+            encrypted_text += char
+    return encrypted_text
+
+
+# Create a socket object
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server_host = "172.16.178.41"  # Server IP address
+server_port = 12345  # Server port
+
+# Connect to the server
+client_socket.connect((server_host, server_port))
+
+# Receive the symmetric key from the server
+key = 4
+'''key = client_socket.recv(32)
+fernet = Fernet(key)'''
+
+# Send an encrypted message to the server
+message = "Hello, server!"
+message_encrypted = caesar_cipher(message,key)#fernet.cesar_cypher(message.encode())
+client_socket.send(message_encrypted.encode())
+
+# Calculate and send the hash digest of the message
+hasher = hashlib.sha256()
+hasher.update(message.encode())
+hash_digest = hasher.digest()
+client_socket.send(hash_digest)
+
+# Close the socket
+client_socket.close()
+13/10/23, 14:29 - Bawa👬👬: hasher = hashlib.sha256()
+hasher.update(message.encode())
+hash_digest = hasher.digest()
+client_socket.send(hash_digest)
+13/10/23, 14:29 - Bawa👬👬: hasher = hashlib.sha256()
+hasher.update(message.encode())
+if hash_digest == hasher.digest():
+    print("Message integrity verified.")
+else:
+    print("Message integrity check failed.")
+13/10/23, 14:35 - Bawa👬👬: import socket
+
+# Create a socket object
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server_host = "127.0.0.1"  # Server IP address
+server_port = 12345  # Server port
+
+# Connect to the server
+client_socket.connect((server_host, server_port))
+
+# Hardcoded key for XOR-based encryption and decryption
+key = 4
+
+# Send a message to the server
+message = "Hello, server!"
+encrypted_message = ""
+for char in message:
+    encrypted_char = chr(ord(char) ^ key)
+    encrypted_message += encrypted_char
+
+client_socket.send(encrypted_message.encode())
+
+# Calculate and send the hash digest of the message
+import hashlib
+hasher = hashlib.sha256()
+hasher.update(message.encode())
+hash_digest = hasher.digest()
+client_socket.send(hash_digest)
+
+# Close the socket
+client_socket.close()
+13/10/23, 14:43 - garggautam2345: import socket
+import hashlib
+from cryptography.fernet import Fernet
+
+# Shared symmetric key (should be securely shared between client and server)
+key = b'nGys9gfLTOMy_VqC-Iz66Sjx1qqBPG0UjQKryqLWbiQ='
+cipher_suite = Fernet(key)
+
+# Server configuration
+HOST = '192.168.14.32'
+PORT = 12345
+
+# Create a socket
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+# Connect to the server
+client_socket.connect((HOST, PORT))
+
+# Message to be encrypted and sent
+message = b"Hello, server! This is a secret message."
+
+# Encrypt the message
+encrypted_message = cipher_suite.encrypt(message)
+
+# Send the encrypted message to the server
+client_socket.send(encrypted_message)
+hasher = hashlib.sha256()
+hasher.update(message.encode())
+hash_digest = hasher.digest()
+client_socket.send(hash_digest)
+
+# Close the socket
+client_socket.close()
+13/10/23, 14:45 - garggautam2345: b'84QnWw-JdEcVmdNEObEjU4uo-xUtvyzQmStDC2caaeY='
+13/10/23, 14:46 - garggautam2345: b't8acdEX0bDqArpE0Q7z2tqodi2tLEDttsVtuUAYr4Kg='
+13/10/23, 14:50 - garggautam2345: b't0-NJR5yYpQCDRMS-JFZoQgF8nCAefiK4rYdBt9Y7-s='
+13/10/23, 15:04 - Bawa👬👬: def caesar_cipher(text, shared_key):
+    encrypted_text = ""
+    for char in text:
+        if char.isalpha():
+            is_upper = char.isupper()
+            char_offset = ord(char.lower()) - ord('a')
+            new_offset = (char_offset + shared_key) % 26
+            new_char = chr(new_offset + ord('a'))
+            if is_upper:
+                new_char = new_char.upper()
+            encrypted_text += new_char
+        else:
+            encrypted_text += char
+    return encrypted_text
+
+def encrypt(text, shared_key):
+    return caesar_cipher(text, shared_key)
+
+def decrypt(encrypted_text, shared_key):
+    return caesar_cipher(encrypted_text, -shared_key)
+13/10/23, 15:15 - garggautam2345: import socket
+def encrypt(texto,s):
+    text=str(texto)
+    result = ""
+ 
+    # traverse text
+    for i in range(len(text)):
+        char = text[i]
+ 
+        # Encrypt uppercase characters
+        if (char.isupper()):
+            result += chr((ord(char) + s-65) % 26 + 65)
+ 
+        # Encrypt lowercase characters
+        else:
+            result += chr((ord(char) + s - 97) % 26 + 97)
+        
+ 
+    return result
+
+# Create a socket object
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server_host = "192.168.134.56"  # Server IP address
+server_port = 12345  # Server port
+
+# Connect to the server
+client_socket.connect((server_host, server_port))
+
+# Hardcoded key for XOR-based encryption and decryption
+key = 4
+
+# Send a message to the server
+message = "Hello, server"
+encrypted_message = ""
+for char in message:
+    encrypted_char = chr(ord(char) ^ key)
+    encrypted_message += encrypted_char
+
+client_socket.send(encrypted_message.encode())
+
+# Calculate and send the hash digest of the message
+import hashlib
+hasher = hashlib.sha256()
+hasher.update(message.encode())
+hash_digest = hasher.digest()
+hash_digest_encrypted=encrypt(hash_digest,key)
+client_socket.send(hash_digest_encrypted)
+
+# Close the socket
+client_socket.close()
+13/10/23, 15:22 - Bawa👬👬: import hashlib
+from Crypto.PublicKey import RSA
+from Crypto.Signature import pkcs1_15
+from Crypto.Cipher import PKCS1_OAEP
+from Crypto.Random import get_random_bytes
+
+# Generate RSA key pair for the client
+client_key = RSA.generate(2048)
+client_private_key = client_key.export_key()
+client_public_key = client_key.publickey().export_key()
+
+# Generate RSA key pair for the server
+server_key = RSA.generate(2048)
+server_private_key = server_key.export_key()
+server_public_key = server_key.publickey().export_key()
+13/10/23, 15:22 - Bawa👬👬: signature = pkcs1_15.new(client_key).sign(hasher)
+13/10/23, 15:23 - Bawa👬👬: client_socket.send(signature)
+13/10/23, 20:23 - garggautam2345: <Media omitted>
+13/10/23, 23:06 - garggautam2345: <Media omitted>
+13/10/23, 23:19 - garggautam2345: <Media omitted>
+18/10/23, 23:09 - Bawa👬👬: <Media omitted>
+25/10/23, 20:06 - Bawa👬👬: Missed video call
+31/10/23, 14:40 - garggautam2345: Bol
+31/10/23, 14:40 - garggautam2345: Ki hai
+31/10/23, 14:41 - Bawa👬👬: Ki krda
+31/10/23, 14:41 - garggautam2345: Lab ch ki krunga
+31/10/23, 14:41 - Bawa👬👬: Lun fdla mera
+31/10/23, 14:41 - garggautam2345: Fda
+31/10/23, 14:41 - Bawa👬👬: Aaja
+31/10/23, 14:41 - garggautam2345: Tun aaja
+01/11/23, 10:55 - garggautam2345: Ki a
+01/11/23, 10:55 - garggautam2345: Bc
+01/11/23, 10:55 - garggautam2345: You deleted this message
+01/11/23, 10:56 - Bawa👬👬: Kithe??
+01/11/23, 10:56 - garggautam2345: Ethe
+01/11/23, 10:57 - Bawa👬👬: Bhonkla
+01/11/23, 10:57 - garggautam2345: Class ch
+01/11/23, 10:57 - Bawa👬👬: Kithe aa
+01/11/23, 10:57 - Bawa👬👬: Nale lgi nic
+01/11/23, 10:58 - garggautam2345: Nhi hje sukha firda
+02/11/23, 09:28 - garggautam2345: <Media omitted>
+02/11/23, 10:40 - Bawa👬👬: class Instructor:
+    def __init__(self, name, experience, feedback, technology_skills):
+        self.__name = name
+        self.__experience = experience
+        self.__feedback = feedback
+        self.__technology_skills = technology_skills
+
+    def check_eligibility(self):
+        if self.__experience > 3:
+            return self.__feedback >= 4.5
+        elif self.__experience <= 3:
+            return self.__feedback >= 4
+        return False
+
+    def allocate_course(self, technology):
+        if technology in self.__technology_skills:
+            return True
+        return False
+
+    def set_experience(self, experience):
+        self.__experience = experience
+
+    def set_feedback(self, feedback):
+        self.__feedback = feedback
+
+    def set_technology_skills(self, technology_skills):
+        self.__technology_skills = technology_skills
+
+    def get_name(self):
+        return self.__name
+
+    def get_experience(self):
+        return self.__experience
+
+    def get_feedback(self):
+        return self.__feedback
+
+    def get_technology_skills(self):
+        return self.__technology_skills
+
+# Test the program with sample data
+instructor1 = Instructor("John", 4, 4.6, ["Python", "Java"])
+instructor2 = Instructor("Jane", 2, 4.2, ["Python", "C++"])
+
+print(f"{instructor1.get_name()} is eligible: {instructor1.check_eligibility()}")
+print(f"{instructor2.get_name()} is eligible: {instructor2.check_eligibility()}")
+
+technology_required = "Python"
+print(f"{instructor1.get_name()} can allocate {technology_required}: {instructor1.allocate_course(technology_required)}")
+print(f"{instructor2.get_name()} can allocate {technology_required}: {instructor2.allocate_course(technology_required)}")
+02/11/23, 10:52 - Bawa👬👬: class Instructor:
+    def __init__(self, name, experience, feedback, technology_skills):
+        self.__name = name
+        self.__experience = experience
+        self.__feedback = feedback
+        self.__technology_skills = technology_skills
+
+    def check_eligibility(self):
+        if self.__experience > 3:
+            return self.__feedback >= 4.5
+        elif self.__experience <= 3:
+            return self.__feedback >= 4
+        return False
+
+    def allocate_course(self, technology):
+        if technology in self.__technology_skills:
+            return True
+        return False
+
+    def set_experience(self, experience):
+        self.__experience = experience
+
+    def set_feedback(self, feedback):
+        self.__feedback = feedback
+
+    def set_technology_skills(self, technology_skills):
+        self.__technology_skills = technology_skills
+
+    def get_name(self):
+        return self.__name
+
+    def get_experience(self):
+        return self.__experience
+
+    def get_feedback(self):
+        return self.__feedback
+
+    def get_technology_skills(self):
+        return self.__technology_skills
+
+# Test the program with sample data
+instructor1 = Instructor("John", 4, 4.6, ["Python", "Java"])
+instructor2 = Instructor("Jane", 2, 4.2, ["Python", "C++"])
+
+print(f"{instructor1.get_name()} is eligible: {instructor1.check_eligibility()}")
+print(f"{instructor2.get_name()} is eligible: {instructor2.check_eligibility()}")
+
+technology_required = "Python"
+print(f"{instructor1.get_name()} can allocate {technology_required}: {instructor1.allocate_course(technology_required)}")
+print(f"{instructor2.get_name()} can allocate {technology_required}: {instructor2.allocate_course(technology_required)}")
+02/11/23, 10:52 - Bawa👬👬: class Bill:
+    # Class variable to keep track of the bill ID
+    bill_id_counter = 1000
+
+    def __init__(self, patient_name):
+        # Instance variables
+        self.__bill_id = Bill.bill_id_counter
+        self.__patient_name = patient_name
+        self.__bill_amount = 0
+        Bill.bill_id_counter += 1
+
+    def calculate_bill_amount(self, consultation_fees, quantity_list, price_list):
+        # Calculate the total bill amount
+        total_medicine_cost = sum(quantity * price for quantity, price in zip(quantity_list, price_list))
+        self.__bill_amount = consultation_fees + total_medicine_cost
+
+    def display_bill(self):
+        print(f"Bill ID: {self.__bill_id}")
+        print(f"Patient Name: {self.__patient_name}")
+        print(f"Bill Amount: ${self.__bill_amount:.2f}")
+
+# Test the program
+consultation_fees = 100
+quantity_list = [2, 3, 1]
+price_list = [10, 20, 30]
+patient_name = "John Doe"
+
+bill1 = Bill(patient_name)
+bill1.calculate_bill_amount(consultation_fees, quantity_list, price_list)
+bill1.display_bill()
+
+# Create another bill for a different patient
+patient_name = "Jane Smith"
+bill2 = Bill(patient_name)
+bill2.calculate_bill_amount(150, [1, 2, 1], [25, 15, 35])
+bill2.display_bill()
+02/11/23, 10:57 - Bawa👬👬: https://chat.openai.com/share/099ab820-97cf-4268-a512-40345f69a413
+02/11/23, 11:02 - Bawa👬👬: https://chat.openai.com/share/099ab820-97cf-4268-a512-40345f69a413
+02/11/23, 11:03 - Bawa👬👬: https://chat.openai.com/share/099ab820-97cf-4268-a512-40345f69a413
+02/11/23, 11:04 - Bawa👬👬: class Shape:
+    def __init__(self, color):
+        self.color = color
+
+
+class Rectangle(Shape):
+    def __init__(self, color, length, breadth):
+        super().__init__(color)
+        self.length = length
+        self.breadth = breadth
+
+    def calc_area(self):
+        return self.length * self.breadth
+
+
+class Triangle(Shape):
+    def __init__(self, color, base, height):
+        super().__init__(color)
+        self.base = base
+        self.height = height
+
+    def calc_area(self):
+        return 0.5 * self.base * self.height
+
+# Create instances of Rectangle and Triangle
+rectangle = Rectangle("Red", 5, 8)
+triangle = Triangle("Green", 6, 10)
+
+# Calculate and display the areas
+print(f"Area of the Rectangle: {rectangle.calc_area()} square units, Color: {rectangle.color}")
+print(f"Area of the Triangle: {triangle.calc_area()} square units, Color: {triangle.color}")
+02/11/23, 11:09 - Bawa👬👬: https://chat.openai.com/share/3c6a31fa-61ab-4102-904e-ddfac1c15862
+02/11/23, 11:32 - Bawa👬👬: <Media omitted>
+03/11/23, 14:14 - garggautam2345: <Media omitted>
+03/11/23, 14:14 - garggautam2345: <Media omitted>
+08/11/23, 10:17 - Bawa👬👬: oe
+08/11/23, 10:17 - Bawa👬👬: kithe mrgya
+08/11/23, 10:17 - Bawa👬👬: aaya ni class??
+08/11/23, 10:22 - garggautam2345: Tun kithe hain ?
+08/11/23, 10:22 - garggautam2345: Tun aagya
+08/11/23, 10:23 - Bawa👬👬: tu ds kithe bund mrarrys
+08/11/23, 10:23 - garggautam2345: Kasuli
+08/11/23, 10:23 - garggautam2345: Ghum reha
+08/11/23, 10:23 - Bawa👬👬: photo bheji
+08/11/23, 10:23 - garggautam2345: Tun scha aaya
+08/11/23, 10:23 - garggautam2345: Aj
+08/11/23, 10:23 - Bawa👬👬: hune
+08/11/23, 10:23 - Bawa👬👬: hor
+08/11/23, 10:23 - garggautam2345: You deleted this message
+08/11/23, 10:23 - garggautam2345: Hun tun class ch hain
+08/11/23, 10:23 - Bawa👬👬: PC
+08/11/23, 10:23 - Bawa👬👬: aaho
+08/11/23, 10:24 - Bawa👬👬: kide nal gya
+08/11/23, 10:32 - garggautam2345: Sisters nal
+08/11/23, 10:32 - garggautam2345: Kyon ki hogya
+08/11/23, 10:32 - garggautam2345: Lan lena c
+08/11/23, 10:32 - garggautam2345: Mera tun
+08/11/23, 10:32 - Bawa👬👬: Acha
+08/11/23, 10:33 - garggautam2345: Oye proxy lgadi
+08/11/23, 10:34 - garggautam2345: Jiven mrji
+08/11/23, 10:34 - Bawa👬👬: Mnu lga baba aaya
+08/11/23, 10:34 - garggautam2345: Na na
+08/11/23, 10:34 - garggautam2345: ....
+08/11/23, 10:34 - garggautam2345: Hlo
+08/11/23, 10:34 - garggautam2345: Oye
+08/11/23, 10:34 - garggautam2345: Proxy
+08/11/23, 10:34 - garggautam2345: Proxy
+08/11/23, 10:34 - garggautam2345: Proxy
+08/11/23, 10:34 - garggautam2345: Proxy
+08/11/23, 10:34 - garggautam2345: Oye lodeya
+08/11/23, 10:34 - garggautam2345: Bol pa ouch
+08/11/23, 10:34 - Bawa👬👬: Kyo bhonki jana
+08/11/23, 10:34 - Bawa👬👬: J lgi te ladu ga
+08/11/23, 10:34 - garggautam2345: Hm
+09/11/23, 21:20 - Bawa👬👬: <Media omitted>
+09/11/23, 21:21 - Bawa👬👬: <Media omitted>
+09/11/23, 21:21 - Bawa👬👬: <Media omitted>
+09/11/23, 21:21 - Bawa👬👬: <Media omitted>
+09/11/23, 22:52 - garggautam2345: <Media omitted>
+09/11/23, 22:52 - garggautam2345: <Media omitted>
+09/11/23, 23:09 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:11 - garggautam2345: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:54 - Bawa👬👬: <Media omitted>
+09/11/23, 23:59 - garggautam2345: <Media omitted>
+10/11/23, 08:21 - Bawa👬👬: This message was deleted
+10/11/23, 09:06 - garggautam2345: Oye
+10/11/23, 09:06 - garggautam2345: Recording na bheji
+10/11/23, 09:06 - garggautam2345: Kisse nu v
+10/11/23, 09:06 - garggautam2345: Menu phone aaya c cr da
+12/11/23, 14:30 - Bawa👬👬: Okay beta
+13/11/23, 19:49 - garggautam2345: <Media omitted>
+16/11/23, 11:50 - garggautam2345: <Media omitted>
+24/11/23, 06:53 - Bawa👬👬: <Media omitted>
+24/11/23, 06:53 - Bawa👬👬: ajj last date aa submit krde
+24/11/23, 06:53 - Bawa👬👬: google classroom
+24/11/23, 08:22 - garggautam2345: Okkk g
+24/11/23, 09:53 - garggautam2345: Oye
+24/11/23, 09:53 - garggautam2345: Chln ton pehlan
+24/11/23, 09:53 - garggautam2345: Bude nu phone jrli
+24/11/23, 09:53 - garggautam2345: Krli
+24/11/23, 21:33 - garggautam2345: <Media omitted>
+24/11/23, 21:39 - garggautam2345: <Media omitted>
+24/11/23, 21:41 - garggautam2345: <Media omitted>
+28/11/23, 16:19 - garggautam2345: Oye photos te videos bhejde saariyan
+28/11/23, 22:35 - Bawa👬👬: <Media omitted>
+28/11/23, 22:35 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:36 - Bawa👬👬: <Media omitted>
+28/11/23, 22:37 - Bawa👬👬: <Media omitted>
+28/11/23, 22:37 - Bawa👬👬: <Media omitted>
+28/11/23, 22:37 - Bawa👬👬: <Media omitted>
+28/11/23, 22:37 - Bawa👬👬: <Media omitted>
+28/11/23, 22:37 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+30/11/23, 21:54 - Bawa👬👬: <Media omitted>
+02/12/23, 20:19 - Bawa👬👬: <Media omitted>
+03/12/23, 18:09 - Bawa👬👬: <Media omitted>
+04/12/23, 18:13 - Bawa👬👬: https://tome.app/
+04/12/23, 19:23 - Bawa👬👬: live location shared
+10/12/23, 08:55 - garggautam2345: null
+12/12/23, 12:48 - garggautam2345: <Media omitted>
+15/12/23, 19:16 - garggautam2345: <Media omitted>
+15/12/23, 19:16 - garggautam2345: <Media omitted>
+15/12/23, 19:20 - Bawa👬👬: <Media omitted>
+15/12/23, 19:21 - Bawa👬👬: <Media omitted>
+15/12/23, 19:21 - Bawa👬👬: <Media omitted>
+15/12/23, 19:33 - garggautam2345: <Media omitted>
+15/12/23, 22:21 - garggautam2345: <Media omitted>
+15/12/23, 22:21 - garggautam2345: <Media omitted>
+16/12/23, 01:43 - garggautam2345: Weak sloat and filler structure
+16/12/23, 01:46 - Bawa👬👬: The key differences between weak and strong slot-and-filler structures are:
+
+Weak slot-and-filler structures:
+
+The syntax and ontology for representing slots and fillers are separately specified and loosely coupled. There is little constraint on what can fill a given slot.
+There are no constraints on what slots need to be filled or how many fillers a slot can have. Slots can be left empty and can have unlimited fillers.
+Slots and fillers typically have short, generic labels that carry little specific semantic information. For example, "Object", "Attribute", "Value".
+The semantics of slots are not explicitly defined, making interpretation very context sensitive. Interpreting the overall meaning requires broader world understanding.
+Strong slot-and-filler structures:
+
+The syntax and ontology are very tightly coupled. The slots impose constraints on what concepts/entities can legitimately fill them.
+Slots have cardinality constraints - often each slot requires at least one filler. The number of fillers a slot can take is constrained based on its defined semantics.
+Slots and fillers have very explicit semantic labels that encode meaning within the knowledge representation system. For example, "Age", "BirthDate", "Occupation".
+The semantics of slots are rigorously and explicitly defined in an ontology/schema, reducing context sensitivity and enabling reasoning. Their meaning stands alone.
+So in summary, strong slot-and-filler structures have a tight coupling between syntax and semantics with explicit ontological constraints. Weak structures have a loose coupling and little specification of semantic constraints
+16/12/23, 01:46 - Bawa👬👬: The main differences between weak and strong slot-and-filler structures are:
+
+Constraints on slots and fillers:
+Weak: Slots have no constraints on what concepts/entities can fill them and no constraints on cardinality (number of possible fillers)
+Strong: Slots impose strict constraints on what can fill them and cardinality constraints on number of fillers
+Coupling of syntax and semantics:
+Weak: Loose coupling between slot syntax and semantics. Slot semantics are context-dependent.
+Strong: Tight coupling between syntax and rigorously defined semantics in an ontology/schema. Reduces context sensitivity.
+Specificity of slots and fillers:
+Weak: Slots and fillers have generic, non-semantic labels (e.g. "Object", "Attribute").
+Strong: Slots and fillers have explicit, semantically meaningful labels based on ontology (e.g. "Age").
+Interpretability:
+Weak: Overall meaning requires more world knowledge to interpret.
+Strong: Meaning of structure stands alone due to rigorously defined slot semantics. Enables reasoning.
+In summary, strong structures exhibit a close coupling between syntactic slots and explicit semantic constraints defined in an ontology. Weak structures have looser semantics and fewer restrictions on slots and fillers
+16/12/23, 02:01 - garggautam2345: <Media omitted>
+16/12/23, 02:02 - garggautam2345: <Media omitted>
+16/12/23, 02:02 - garggautam2345: <Media omitted>
+17/12/23, 12:22 - garggautam2345: <Media omitted>
+18/12/23, 13:52 - garggautam2345: '@bawa123&#;'bhendalan+--7'
+18/12/23, 20:55 - Bawa👬👬: <Media omitted>
+19/12/23, 07:40 - Bawa👬👬: <Media omitted>
+19/12/23, 23:43 - garggautam2345: <Media omitted>
+20/12/23, 10:12 - garggautam2345: <Media omitted>
+20/12/23, 15:46 - Bawa👬👬: null
+21/12/23, 16:19 - Bawa👬👬: 8437002867
+21/12/23, 16:28 - garggautam2345: location: https://maps.google.com/?q=30.713766,76.7536428
+23/12/23, 16:05 - garggautam2345: 1284
+23/12/23, 18:04 - garggautam2345: 80
+23/12/23, 22:36 - garggautam2345: <Media omitted>
+24/12/23, 13:59 - garggautam2345: 1400
+24/12/23, 14:30 - garggautam2345: 1000 cash hi dedi
+24/12/23, 14:33 - Bawa👬👬: Na
+24/12/23, 14:33 - garggautam2345: Te 130 v roti de
+24/12/23, 14:33 - Bawa👬👬: Sara bnala pla
+24/12/23, 14:34 - Bawa👬👬: Fer bheji
+24/12/23, 14:34 - garggautam2345: 100 cab
+24/12/23, 14:34 - garggautam2345: Bss aahi hai
+24/12/23, 14:34 - garggautam2345: Hor kuch ni
+24/12/23, 14:35 - garggautam2345: 260 ??
+24/12/23, 14:35 - Bawa👬👬: 130*2
+24/12/23, 14:35 - Bawa👬👬: Aa wale bund mra tu
+24/12/23, 14:35 - garggautam2345: Achaaa
+24/12/23, 14:36 - garggautam2345: Chl 
+bhet koi ni pa skda bai rab deyan rangan da
+24/12/23, 14:36 - Bawa👬👬: Tere dana pani mukan wala lgda
+24/12/23, 14:37 - garggautam2345: Ktheyan da hi muku
+24/12/23, 14:37 - garggautam2345: Kyo tension lene
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+26/12/23, 08:01 - garggautam2345: <Media omitted>
+28/12/23, 23:32 - Bawa👬👬: <Media omitted>
+29/12/23, 09:29 - garggautam2345: 🤣🤣🤣🤣
+29/12/23, 09:29 - garggautam2345: 🤣🤣🤣🤣
+29/12/23, 09:30 - garggautam2345: <Media omitted>
+29/12/23, 09:30 - garggautam2345: Oye bss kr
+29/12/23, 09:30 - Bawa👬👬: 😂😂😂
+29/12/23, 09:30 - garggautam2345: Bs kr yrr
+29/12/23, 09:30 - Bawa👬👬: Jdo 3-4 kthe msg aaye m smj gya si
+29/12/23, 09:30 - garggautam2345: 🤣🤣
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: <Media omitted>
+29/12/23, 10:31 - garggautam2345: Ehna di bna de
+03/01/24, 00:08 - Bawa👬👬: <Media omitted>
+04/01/24, 21:18 - Bawa👬👬: Sade walo vi vdhai dedi aunty nu🎉🎉
+04/01/24, 21:38 - garggautam2345: Thankyou g
+16/01/24, 12:38 - garggautam2345: https://www.shoutlo.com/events/kanwar-grewal-live-at-indradhanush-auditorium
+16/01/24, 12:40 - garggautam2345: https://www.shoutlo.com/restaurants/shivjot-farms-and-resorts-panchkula
+20/01/24, 11:28 - Bawa👬👬: https://g.co/kgs/et14eQ4
+20/01/24, 11:29 - Bawa👬👬: https://www.google.com/search?client=ms-android-oneplus-rvo3&cs=1&hl=en-IN&sca_esv=600010291&output=search&q=Xtreme%20Warzone&ludocid=2229034866147660821&ibp=gwp%3B0%2C7&lsig=AB86z5XZqRRwA0m-4wRqS-mFy3vF&kgs=c73e74fdff292379&shndl=-1&shem=lcsnc%2Clsp&source=sh%2Fx%2Floc%2Fact%2Fm1%2F4
+20/01/24, 11:31 - Bawa👬👬: https://g.co/kgs/26adZmg
+20/01/24, 11:31 - Bawa👬👬: Ena ch na chliye adki
+20/01/24, 11:32 - garggautam2345: Chlo
+20/01/24, 11:32 - garggautam2345: Pr party ethe nhi joni
+20/01/24, 11:32 - Bawa👬👬: Fer ln fdn jana
+20/01/24, 11:32 - garggautam2345: Un jaa avange
+20/01/24, 11:32 - garggautam2345: Party nhi put
+20/01/24, 11:32 - Bawa👬👬: Inne pse hi ni hge
+24/01/24, 12:20 - Bawa👬👬: J satho na aa hoya proxy ladi plz
+30/01/24, 15:29 - Bawa👬👬: <Media omitted>
+04/02/24, 11:35 - garggautam2345: https://physionet.org/content/capslpdb/1.0.0/
+06/02/24, 19:45 - Bawa👬👬: <Media omitted>
+20/02/24, 12:16 - garggautam2345: null
+20/02/24, 12:16 - garggautam2345: null
+21/02/24, 10:01 - garggautam2345: <Media omitted>
+21/02/24, 10:01 - garggautam2345: <Media omitted>
+21/02/24, 10:02 - garggautam2345: <Media omitted>
+22/02/24, 22:43 - garggautam2345: <Media omitted>
+22/02/24, 23:17 - garggautam2345: <Media omitted>
+23/02/24, 00:43 - garggautam2345: <Media omitted>
+23/02/24, 00:43 - garggautam2345: <Media omitted>
+23/02/24, 08:52 - garggautam2345: <Media omitted>
+23/02/24, 22:02 - Bawa👬👬: null
+23/02/24, 22:02 - garggautam2345: null
+23/02/24, 22:13 - Bawa👬👬: <Media omitted>
+25/02/24, 15:09 - garggautam2345: null
+28/02/24, 20:23 - Bawa👬👬: <Media omitted>
+28/02/24, 20:25 - garggautam2345: <Media omitted>
+28/02/24, 20:26 - garggautam2345: <Media omitted>
+28/02/24, 20:26 - Bawa👬👬: https://photos.app.goo.gl/vUREAV55xvusCZK6A
+03/03/24, 01:39 - Bawa👬👬: ??
+03/03/24, 01:39 - garggautam2345: Ki ae
+03/03/24, 01:39 - garggautam2345: Ln lene
+04/03/24, 14:17 - garggautam2345: null
+08/03/24, 17:54 - garggautam2345: null
+18/03/24, 09:55 - garggautam2345: Proxy lgadiyo
+20/03/24, 14:01 - Bawa👬👬: O klan aaja
+20/03/24, 14:01 - Bawa👬👬: Hitesh vi huni aaya
+20/03/24, 14:01 - Bawa👬👬: Lan fdda bhr btha
+20/03/24, 14:03 - Bawa👬👬: null
+20/03/24, 14:42 - garggautam2345: jdon class mukugi phone krdi
+20/03/24, 15:11 - garggautam2345: muki ni class
+20/03/24, 15:11 - garggautam2345: ??
+20/03/24, 15:11 - garggautam2345: oye
+20/03/24, 15:19 - garggautam2345: Bol
+20/03/24, 15:19 - garggautam2345: null
+20/03/24, 15:19 - garggautam2345: Haan
+20/03/24, 15:19 - garggautam2345: Ki hoya
+20/03/24, 15:19 - Bawa👬👬: Kithe
+20/03/24, 15:19 - garggautam2345: Mam kol
+20/03/24, 15:19 - Bawa👬👬: ??
+20/03/24, 15:19 - garggautam2345: Attendence lg gyi ?
+20/03/24, 15:19 - Bawa👬👬: Kdo vela hona
+20/03/24, 15:19 - Bawa👬👬: Aaho
+20/03/24, 15:19 - garggautam2345: 10-15 mint
+20/03/24, 15:19 - Bawa👬👬: This message was deleted
+21/03/24, 22:44 - Bawa👬👬: null
+22/03/24, 09:35 - Bawa👬👬: This message was deleted
+03/04/24, 10:37 - Bawa👬👬: <Media omitted>
+04/04/24, 10:11 - Bawa👬👬: location: https://maps.google.com/?q=30.7387682,76.7606132
+06/04/24, 18:14 - garggautam2345: null
